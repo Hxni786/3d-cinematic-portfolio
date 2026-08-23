@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&family=Alex+Brush&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-inter: 'Inter', sans-serif;
+  --font-cursive: 'Alex Brush', cursive;
+}
